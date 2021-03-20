@@ -4,7 +4,7 @@
       and commited a first SQL project on database design in MySQL.
       
 - 🌱 I’m currently learning Python and SQL with multiple libraries with Pycharm, Jupyter Notebook and MySQL. I've got a lot on my mind what I'd like to learn and develop however right now I'm 
-      getting a solid foundation within the programming online community and getting comfortable with using what I've learnt so far.
+      getting a solid foundation within the programming online community and getting comfortable with using what I've learnt so far, creating projects.
       
 - 💞️ I'm open to a variety of projects within areas of interest or even ones that are interesting enough to keep engaged and learn more practices
 
