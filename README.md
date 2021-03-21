@@ -8,7 +8,6 @@
       
 - 💞️ I'm open to a variety of projects within areas of interest or even ones that are interesting enough to keep engaged and learn more practices
 
-- 📫 How to reach me ... details will be updated soon as I get comfortable with GitHub platform
 
 <!---
 pragmaticLearner/pragmaticLearner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
