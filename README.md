@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @pragmaticLearner
 
-- 👀 My interests are in data engineering in Python however, I've already completed a few analysis projects on 'kaggle.com'.
+- 👀 My interests are in data engineering with Python however I'm at a stage where I am branching out, experiementing and starting to be interested in 
+other areas of tech.
       
 - 🌱 I’m currently employed as a full time data engineer in FinTech using Python (PySpark, Airflow), AWS (with all services) and many other packages which are used in the industry to help achieve the solutions I need.
       
