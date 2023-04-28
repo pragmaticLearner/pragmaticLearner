@@ -1,11 +1,10 @@
 - 👋 Hi, I’m @pragmaticLearner
 
-- 👀 My interests are in data engineering with Python however I'm at a stage where I am branching out, experiementing and starting to be interested in 
-other areas of tech.
+- 👀 My tech interests are mainly centered around data engineering but I do dabble in other areas when it catches my interest.
       
-- 🌱 I’m currently employed as a full time data engineer in FinTech using Python (PySpark, Airflow), AWS (with all services) and many other packages which are used in the industry to help achieve the solutions I need.
+- 🌱 Currently work as a data engineer in financial industry.
       
-- 💞️ I'm open to a variety of projects within areas of interest or even ones that are interesting enough to keep engaged and learn more. I am a self taught programmer so I am definitely a practical learner that learns by doing!
+- 💞️ I love to learn new things and also: cycling, football, thai boxing and gaming (playstation > xbox).
 
 
 <!---
