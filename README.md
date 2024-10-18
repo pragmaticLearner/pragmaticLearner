@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @pragmaticLearner
 
-- 👀 My tech interests are mainly centered around data engineering but I do dabble in other areas when it catches my interest.
+- 👀 My tech interests are mainly centered around data engineering but also explore different areas that have caught my curiosity.
       
-- 🌱 Currently work as a data engineer in financial industry.
+- 🌱 Work as a data engineer using mainly scala and java but also python and SQL.
       
-- 💞️ I love to learn new things and also: cycling, football, thai boxing and gaming (playstation > xbox).
+- 💞️ Love to learn new things with tech, libraires, tools in multiple areas for instance android studio, linux command line for ethical hacking and networking.
 
 
 <!---
