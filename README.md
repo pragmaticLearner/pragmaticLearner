@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @pragmaticLearner
 
-- 👀 My tech interests are mainly centered around data engineering but also explore different areas that have caught my curiosity.
+- 👀 I am a full stack developer with a data engineering leaning background 
       
-- 🌱 Work as a data engineer using mainly scala and java but also python and SQL.
-      
-- 💞️ Love to learn new things with tech, libraires, tools in multiple areas for instance android studio, linux command line for ethical hacking and networking.
+- 💞️ Love learning new tech, and applying what I've learnt to new projects. 
 
 
 <!---
